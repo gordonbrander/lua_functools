@@ -1,2 +1,11 @@
-# lua_functools
-Tools for functional programming in Lua
+# functools
+
+Common functional programming tools for Lua, including:
+
+  - id
+  - compose
+  - partial
+  - namedpartial
+  - curry
+  - multiple dispatch
+  - memoize
